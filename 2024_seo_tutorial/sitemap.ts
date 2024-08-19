@@ -19,3 +19,5 @@ export default async function sitemap() {
     ...blogPosts,  // 여부 에따라 링크가 추가됌! ex)yoursite/sitemap.xml 로 확인가능
 ];
 }
+
+// URL 추가 함 포스트 슬로건들을 
