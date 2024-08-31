@@ -7,8 +7,8 @@ export default function App() {
   return (
     <WebView
       style={styles.container}
-      // source={{ uri: 'https://expo.dev' }}
-      source={{ uri: 'http://localhost:3000/' }}
+      source={{ uri: 'https://expo.dev' }}
+      // source={{ uri: 'http://localhost:3000/' }}
     />
   );
 }
